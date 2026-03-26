@@ -20,7 +20,18 @@ Download the `.pth` file and place it in your designated model directory...
 - [PyTorch >= 1.7](https://pytorch.org/)
 - [BasicSR == 1.3.5](https://github.com/XPixelGroup/BasicSR/blob/master/INSTALL.md) 
 
+## database
+The dataset can be downloaded from here 
+- **Baidu Drive **: [link](https://pan.baidu.com/s/17kDP6AGSBh6SL8EasCgtpA?pwd=1544) 
 
+The dataset is sourced from Uc Merced:
+Yi Yang and Shawn Newsam, "Bag-Of-Visual-Words and Spatial Extensions for Land-Use Classification," ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM GIS), 2010.
+Shawn D. Newsam
+Assistant Professor and Founding Faculty
+Electrical Engineering & Computer Science
+University of California, Merced
+Email: snewsam@ucmerced.edu
+Web: http://faculty.ucmerced.edu/snewsam/
 
 
 
