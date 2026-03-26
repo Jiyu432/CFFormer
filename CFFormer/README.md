@@ -1,128 +1,22 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-set5-2x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set5-2x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-set5-3x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set5-3x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-set5-4x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set5-4x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-set14-2x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set14-2x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-set14-3x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set14-3x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-set14-4x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set14-4x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-bsd100-2x-upscaling)](https://paperswithcode.com/sota/iimage-super-resolution-on-bsd100-2x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-bsd100-3x-upscaling)](https://paperswithcode.com/sota/iimage-super-resolution-on-bsd100-3x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-bsd100-4x-upscaling)](https://paperswithcode.com/sota/iimage-super-resolution-on-bsd100-4x-upscaling?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-urban100-2x)](https://paperswithcode.com/sota/image-super-resolution-on-urban100-2x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-urban100-3x)](https://paperswithcode.com/sota/image-super-resolution-on-urban100-3x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-urban100-4x)](https://paperswithcode.com/sota/image-super-resolution-on-urban100-4x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-manga109-2x)](https://paperswithcode.com/sota/image-super-resolution-on-manga109-2x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-manga109-3x)](https://paperswithcode.com/sota/image-super-resolution-on-manga109-3x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/image-super-resolution-on-manga109-4x)](https://paperswithcode.com/sota/image-super-resolution-on-manga109-4x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-flickr1024-1)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-flickr1024-1?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-flickr1024-2)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-flickr1024-2?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-kitti2012-2x-2)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-kitti2012-2x-2?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-kitti2012-4x)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-kitti2012-4x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-kitti2015-2x)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-kitti2015-2x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-kitti2015-4x)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-kitti2015-4x?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-middlebury-1)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-middlebury-1?p=swinfir-revisiting-the-swinir-with-fast)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swinfir-revisiting-the-swinir-with-fast/stereo-image-super-resolution-on-middlebury)](https://paperswithcode.com/sota/stereo-image-super-resolution-on-middlebury?p=swinfir-revisiting-the-swinir-with-fast)
 
 
-# SwinFIR: Revisiting the SwinIR with Fast Fourier Convolution and Improved Training for Image Super-Resolution
+# CFFormer: Channel Fourier Transformer for Remote Sensing Super Resolution
 
-Dafeng Zhang, Feiyu Huang, Shizhuo Liu, Xiaobing Wang and Zhezhu Jin
+Zexin Xie , Jian Wang , Wei Song , Yanling Du , Huifang Xu , and Qinhan Yang
 
-> Transformer-based methods have achieved impressive image restoration performance due to their capacities to model long-range dependency compared to CNN-based methods. However, advances like SwinIR adopts the window-based and local attention strategy to balance the performance and computational overhead, which restricts employing large receptive fields to capture global information and establish long dependencies in the early layers. To further improve the efficiency of capturing global information, in this work, we propose SwinFIR to extend SwinIR by replacing Fast Fourier Convolution (FFC) components, which have the image-wide receptive field. We also revisit other advanced techniques, i.e., data augmentation, pre-training, and feature ensemble to improve the effect of image reconstruction. And our feature ensemble method enables the performance of the model to be considerably enhanced without increasing the training and testing time. We applied our algorithm on multiple popular large-scale benchmarks and achieved state-of-the-art performance comparing to the existing methods. For example, our SwinFIR achieves the PSNR of 32.83 dB on Manga109 dataset, which is 0.8 dB higher than the state-of-the-art SwinIR method, a significant improvement.
+> The objective of super-resolution in remote sensing imagery is to enhance low-resolution images to recover high-quality details. With the rapid progress of deep learning technology, the deep learning-based super-resolution technology for remote sensing images has also made remarkable achievements. However, these methods encounter several challenges. They often struggle with processing long-range spatial information that encompasses complex scene changes, adversely affecting the image’s coherence and accuracy. Furthermore, the lack of connectivity in feature extraction blocks hinders effective feature utilization in deeper network layers, leading to issues such as gradient vanishing and exploding. Additionally, constraints in the spatial domain of previous methods frequently result in severe shape distortion and blurring. To address these issues, this study proposes the CFFormer, a new super-resolution framework that employs the Swin Transformer as its core architecture and incorporates the Channel Fourier Block (CFB) to refine features in the frequency domain. The Global Attention Block (GAB) is also integrated to enhance global information capture, thereby improving the extraction of spatial features. To increase model stability and feature utilization efficiency, a Jump Joint Fusion Mechanism is designed, culminating in a Residual Fusion Swin Transformer Block (RFSTB) that alleviates the gradient vanishing issue and optimizes feature reuse. Experimental results confirm the CFFormer’s superior performance in remote sensing image reconstruction, demonstrating outstanding perceptual quality and reliability. Notably, the CFFormer achieves a Peak Signal-to-Noise Ratio (PSNR) of 29.83 dB on the UcMercedx4 dataset, surpassing the SwinIR method by approximately 0.5 dB,indicating a substantial enhancement
 
-## Architecture
-![](assets/SwinFIR.png)
+
 
 ## Environment
 - [PyTorch >= 1.7](https://pytorch.org/)
 - [BasicSR == 1.3.5](https://github.com/XPixelGroup/BasicSR/blob/master/INSTALL.md) 
 
 
-### Installation
-Install Pytorch first.
-Then,
-```
-pip install -r requirements.txt
-python setup.py develop
-```
-
-## How To Inference
-**Single Image Super Resolution**
-``` 
-python inference/inference_swinfir.py
-```
-**Stereo Image Super Resolution**
-``` 
-python inference/inference_swinfirssr.py
-```
-
-## How To Test
-**SwinFIR and HATFIR for single image super resolution**
-
-**SwinFIRSSR for stereo image super resolution**
-
-**Single Image Super Resolution**
-- Prepare the testing data according to [HAT](https://github.com/XPixelGroup/HAT/tree/main) for single image super resolution.
-- Download the pretrained model, [Google Drive](https://drive.google.com/drive/folders/1wiJcFJA4DxIISB7b_qz4u-kA1WE6EJOk?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1zBVNAqXLMld44G5t0rBG2Q?pwd=8i4g) (access code: 8i4g).
-- Then run the follwing codes (taking `SwinFIR_SRx4.yml` as an example):
-```
-python swinfir/test.py -opt options/test/SwinFIR/SwinFIR_SRx4.yml
-```
-**Stereo Image Super Resolution**
-- Prepare the testing data according to [NAFSSR](https://github.com/megvii-research/NAFNet/blob/main/docs/StereoSR.md) for stereo image super resolution.
-- Download the pretrained model, [Google Drive](https://drive.google.com/drive/folders/1wiJcFJA4DxIISB7b_qz4u-kA1WE6EJOk?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1zBVNAqXLMld44G5t0rBG2Q?pwd=8i4g) (access code: 8i4g).
-- Then run the follwing codes (taking `SwinFIRSSR_SSRx4.yml` as an example):
-```
-python swinfir/test.py -opt options/test/SwinFIRSSR/SwinFIRSSR_SSRx4.yml
-```
 
 
-## How To Train
-- Refer to `./options/train` for the configuration file of the model to train.
-- Preparation of training data can refer to [this page](https://github.com/XPixelGroup/BasicSR/blob/master/docs/DatasetPreparation.md). ImageNet dataset can be downloaded at the [official website](https://image-net.org/challenges/LSVRC/2012/2012-downloads.php).
-- The training command is like
-```
-CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 --master_port=4321 swinfir/train.py -opt options/train/SwinFIR/train_SwinFIR_SRx2_from_scratch.yml --launcher pytorch
-```
 
-The training logs and weights will be saved in the `./experiments` folder.
 
-## Results
-- Classical Image Super-Resolution
-
-  |   Method    | Scale | Set5  | Set14 | BSD100 | Urban100 | Manga109 |
-  | :---------: | :---: | :---: | :---: | :----: | :------: | :------: |
-  |   SwinIR    |  X2   | 38.42 | 34.46 | 32.53  |  33.81   |  39.92   |
-  | **SwinFIR** |  X2   | 38.67 | 34.94 | 32.66  |  34.59   |  40.63   |
-  |     HAT     |  X2   | 33.73 | 35.13 | 32.69  |  34.81   |  40.71   |
-  | **HATFIR**  |  X2   | 38.77 | 35.19 | 32.73  |  34.97   |  40.78   |
-  |   SwinIR    |  X3   | 34.97 | 30.93 | 29.46  |  29.75   |  35.12   |
-  | **SwinFIR** |  X3   | 35.16 | 31.25 | 29.56  |  30.45   |  35.77   |
-  |     HAT     |  X3   | 35.16 | 31.33 | 29.59  |  30.70   |  35.84   |
-  | **HATFIR**  |  X3   | 35.22 | 31.37 | 29.61  |  30.78   |  35.91   |
-  |   SwinIR    |  X4   | 32.92 | 29.09 | 27.92  |  27.45   |  32.03   |
-  | **SwinFIR** |  X4   | 33.20 | 29.36 | 28.03  |  28.14   |  32.84   |
-  |     HAT     |  X4   | 33.18 | 29.38 | 28.05  |  28.37   |  32.87   |
-  | **HATFIR**  |  X4   | 33.29 | 29.47 | 28.08  |  28.44   |  33.03   |
-
-- Lightweight Image Super-Resolution
-
-  |   Method    | Scale | Set5  | Set14 | BSD100 | Urban100 | Manga109 |
-  | :---------: | :---: | :---: | :---: | :----: | :------: | :------: |
-  |   SwinIR    |  X2   | 38.14 | 33.86 | 32.31  |  32.76   |  39.12   |
-  | **SwinFIR** |  X2   | 38.30 | 34.28 | 32.43  |  33.33   |  39.71   |
-  |   SwinIR    |  X3   | 34.62 | 30.54 | 29.20  |  28.66   |  33.98   |
-  | **SwinFIR** |  X3   | 34.76 | 30.68 | 29.30  |  29.05   |  34.59   |
-  |   SwinIR    |  X4   | 32.44 | 28.77 | 27.69  |  26.47   |  30.92   |
-  | **SwinFIR** |  X4   | 32.67 | 28.99 | 27.80  |  26.99   |  31.68   |
-
-- Stereo Image Super-Resolution
-
-  |     Method     | Scale | KITTI 2012 | KITTI 2015 | Middlebury | Flickr 1024 |
-  | :------------: | :---: | :--------: | :--------: | :--------: | :---------: |
-  |    NAFSSR-L    |  X2   |   31.60    |   31.25    |   35.88    |    29.68    |
-  | **SwinFIRSSR** |  X2   |   31.79    |   31.45    |   36.52    |    30.14    |
-  |    NAFSSR-L    |  X4   |   27.12    |   26.96    |   30.30    |    24.17    |
-  | **SwinFIRSSR** |  X4   |   27.16    |   26.89    |   30.44    |    24.30    |
 
 
 ## Citation
