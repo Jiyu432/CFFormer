@@ -26,11 +26,12 @@ Download the `.pth` file and place it in your designated model directory...
 ## Citation
 If you find this project useful for your research, please consider citing:
 ~~~
-@article{zhang2022swinfir,
-  title={Swinfir: Revisiting the swinir with fast fourier convolution and improved training for image super-resolution},
-  author={Zhang, Dafeng and Huang, Feiyu and Liu, Shizhuo and Wang, Xiaobing and Jin, Zhezhu},
-  journal={arXiv preprint arXiv:2208.11247},
-  year={2022}
+@article{xie2024hamd,
+  title={CFFormer: Channel Fourier Transformer for Remote Sensing Super Resolution},
+  author={Zexin Xie , Jian Wang , Wei Song , Yanling Du , Huifang Xu , and Qinhan Yang},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
 }
 ~~~
 ## Acknowledgement
